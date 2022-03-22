@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi! I'm Jan.
+
+Welcome to my profile! I'm a computer science student at TU Chemnitz with a passion for automation, serverless architectures and iOS apps.
+
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning SwiftUI and a bit of ML.
+- 📫 How to reach me: [@Alpaone](https://twitter.com/Alpaone)
+- 👨‍💻  Read more about my projects at [janhuelsmann.com](https://janhuelsmann.com)
+- ⚡ Fun fact: I ❤️ mechanical keyboards
 
 <!--
 **thealpa/thealpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
