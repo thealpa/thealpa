@@ -1,4 +1,6 @@
-### 👋 Hi! I'm Jan.
+<p align="center">
+	<img src="branding@2x.png" width=250 />
+</p>
 
 Welcome to my profile! I'm a computer science student at TU Chemnitz with a passion for automation, serverless architectures and iOS apps.
 
