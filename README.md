@@ -2,7 +2,7 @@
 	<img src="branding@2x.png" width=250 />
 </p>
 
-Welcome to my profile! I'm a computer science student at TU Chemnitz with a passion for automation, serverless architectures and iOS apps.
+Welcome to my profile! I'm a software engineer with a passion for iOS/macOS apps, design, serverless architectures, and mechanical keyboards. I'm currently working at [LOVOO](https://apps.apple.com/us/app/lovoo-dating-app-live-chat/id445338486) helping people find the opposite of loneliness. I also have a degree from the Technical University of Chemnitz in Business Informatics (Computer Science + Business Administration).
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning SwiftUI and a bit of ML.
